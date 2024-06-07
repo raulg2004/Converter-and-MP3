@@ -53,7 +53,3 @@ We welcome contributions to this project. If you find any issues or have suggest
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Enjoy using Converter-MP3! If you have any questions or feedback, feel free to reach out.
